@@ -1,2 +1,2 @@
-# C209_LAB
-Projeto de laboratório de Computação gráfica e multimídia
+# C209 Projeto
+Detector de moedas com Opencv Python e TensorFlow
